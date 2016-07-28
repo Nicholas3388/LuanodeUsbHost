@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LuanodeHost</string>
+    <string name="clear_screen">Clear screen</string>
+    <string name="luanode_homepage">About LuaNode</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+</resources>
